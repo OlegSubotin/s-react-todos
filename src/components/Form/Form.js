@@ -1,4 +1,4 @@
-const Form = ({ onInputChange, addTodo, text }) => {
+const Form = ({ text, onInputChange, addTodo }) => {
   return (
     <form>
       <label>
